@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": " RAM XWD  RAJ ",
-    "PREFIX": "#",
+    "BOTNAME": " Heena Bot ",
+    "PREFIX": "/",
     "ADMINBOT": [
-        "61574885940483"
+        "100084364343197"
     ],
     "NDH": [
-        "61574885940483"
+        "        "100084364343197","
     ],
     "DATABASE": {
         "sqlite": {
